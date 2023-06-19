@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.e4919cc0.js",
-    "index.html": "/index.html",
-    "main.e4919cc0.js.map": "/static/js/main.e4919cc0.js.map"
+    "main.js": "/cbhuber17/react-advice.git/static/js/main.e4919cc0.js",
+    "index.html": "/cbhuber17/react-advice.git/index.html",
+    "main.e4919cc0.js.map": "/cbhuber17/react-advice.git/static/js/main.e4919cc0.js.map"
   },
   "entrypoints": [
     "static/js/main.e4919cc0.js"
